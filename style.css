@@ -1,0 +1,15 @@
+.calculator {
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 300px;
+}
+
+#display {
+    
+    height: 60px;
+}
+
+#display1 {
+    
+    height: 60px;
+}
